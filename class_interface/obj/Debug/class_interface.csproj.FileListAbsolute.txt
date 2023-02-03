@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\class_interface\class_interface\bin\Debug\class_interface.exe.config
+C:\Users\Админ\source\repos\class_interface\class_interface\bin\Debug\class_interface.exe
+C:\Users\Админ\source\repos\class_interface\class_interface\bin\Debug\class_interface.pdb
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface_MarkupCompile.cache
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface_MarkupCompile.lref
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.g.resources
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.Properties.Resources.resources
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.exe
+C:\Users\Админ\source\repos\class_interface\class_interface\obj\Debug\class_interface.pdb
